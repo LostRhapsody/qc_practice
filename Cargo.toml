@@ -1,0 +1,7 @@
+[package]
+name = "qc"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+qip = "1.4.0"
